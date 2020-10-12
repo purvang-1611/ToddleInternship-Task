@@ -12,7 +12,7 @@
         * Also, be sure to have `git` available in your PATH, `npm` might need it (You can find git [here](https://git-scm.com/)).
     
 ## steps
-    $ git clone https://github.com/purvang-1611/ToddleInternship-Task.git
+    $ git clone https://github.com/purvang-1611/ToddleInternship-Task
     $ cd toddleinternship
     $ npm install
 
